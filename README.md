@@ -1,4 +1,7 @@
+
 ## Hi there 👋
+# I'm a coder from Texas.
+```print('Helklo trest')
 
 <!--
 **TheVisitor42/TheVisitor42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
